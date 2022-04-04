@@ -6,10 +6,12 @@ import Dashboard from './components/Dashboard/Dashboard';
 import Blog from './components/Blog/Blog';
 import About from './components/About/About';
 import NotFound from './components/NotFound/NotFound';
+import Header from './components/Header/Header';
 
 function App() {
   return (
-    <div className="App">
+    <div >
+      <Header></Header>
      <Routes>
        <Route path='/' element={<Home></Home>}></Route>
        <Route path='/home' element={<Home></Home>}></Route>
