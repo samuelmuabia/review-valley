@@ -1,3 +1,11 @@
+# Welcome to the Review Valley
+Here is the live link of this [site](https://laptop-product-analysis.netlify.app).
+
+What do we have in this site :
+* A home page with route reactor nav bar
+* A review page where people review is shown as a card
+* A dashboard with a line chart and bar chart
+* A Blog page with some question and answer
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
