@@ -1,0 +1,44 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362e6ebd",
+      "name": "Rachel",
+      "feedback": "Fantastic chips in a really light-weight and small package.It's only problem being 8GB of DDR4 RAM is no where enough for your average user for any long sessions be it gaming or browsing.Solvable problem however1",
+      "rating": 5,
+      "img":"./images/avatar-1.jpg"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b372d6ebd",
+      "name": "Marry",
+      "feedback": "I've been on budget laptops for years and wanted the Ryzen 5 chip, was waiting for the Acer 5 to come out with it but hasn't so I bought this and don't regret it. It's slightly chunky in thickness but has a good feel and imho a really nice keyboard. The screen is sharp and better than what I've had with Acer with zero dead pixels.",
+      "rating": 5,
+      "img":"./images/avatar-2.jpg"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b361d6ebd",
+      "name": "Ross Gellar",
+      "feedback": "Its very fast and does multitasking with very little to zero lag. ive ran photoshop, firefox, and discord on it at the same time with no issues, which used to be impossible on my old laptop. i can run games like genshin impact in medium graphics settings with almost no lag. its good for light gaming. dont expect to be able to play a game like the witcher 3 or assasin's creed on this though.",
+      "rating": 3,
+      "img":"./images/avatar-7.jpg"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ebd",
+      "name": "Phoebe",
+      "feedback": "I've had this laptop for 5 months and I absolutely love it. Everything about it is decent. Sometimes I go back to my past orders in Amazon just to reflect on the time I put into researching and how happy I am with it. The only thing I notice is the battery life is only a few hours, so I probably wouldn't be productive if I was traveling, but I only use it at home so that doesn't affect me much.",
+      "rating": 5,
+      "img":"./images/avatar-4.jpg"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ebf",
+      "name": "Monica",
+      "feedback": "This has to be one of my best investments so far. I am satisfied with how this laptop performs because it seems to work good enough with most tasks you throw at it. It doesn’t freeze after having 10 tabs open with Spotify in the background. It runs GTA V and BeamNG on low settings at 45-60fps. It works smoothly with Photoshop, Blender and other workstations. Its just perfect for light gaming, browsing, editing pictures and more.",
+      "rating": 4.25,
+      "img":"./images/avatar-5.jpg"
+    },
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6esd",
+      "name": "Chandler Bing",
+      "feedback": "I bought this for my wife for general web surfing and video chatting and she loves it. And if you're concerned about Windows S mode, it is easily disabled with 1 click in Settings.",
+      "rating": 5,
+      "img":"./images/avatar-6.jpg"
+    }
+]
